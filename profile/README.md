@@ -1,6 +1,12 @@
 Tempest Creative Design Studio
 ==============================
 
+## Featured Repositories
+- [Tempest Backend](https://github.com/TempestCreative/tempest_configurator_backend)
+- [Tempest Admin UI](https://github.com/TempestCreative/tempest_configurator_admin_ui)
+
+
+
 If you create a repository for the internal purpose, please use `tempest` for the topic.
 You can set up topic as below.  
 
@@ -10,7 +16,7 @@ You can set up topic as below.
   
   
 **Then you can set as many topic as you want.**  
-<img width="678" height="532" alt="image" src="https://github.com/user-attachments/assets/d9fb601e-b3ab-42c5-9ae9-5ed69a3307f1" />
+<img width="339" height="266" alt="image" src="https://github.com/user-attachments/assets/d9fb601e-b3ab-42c5-9ae9-5ed69a3307f1" />
 
 
 **Topic you may consider**  

@@ -2,8 +2,8 @@ Tempest Creative Design Studio
 ==============================
 
 ## Featured Repositories
-- [Tempest Backend](https://github.com/TempestCreative/tempest_configurator_backend)
-- [Tempest Admin UI](https://github.com/TempestCreative/tempest_configurator_admin_ui)
+- [Tempest Backend](https://github.com/TempestCreative/tempest_configurator_backend){:target="_blank"}
+- [Tempest Admin UI](https://github.com/TempestCreative/tempest_configurator_admin_ui){:target="_blank"}
 
 
 

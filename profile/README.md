@@ -2,7 +2,7 @@ Tempest Creative Design Studio
 ==============================
 
 
-
+If you create a repository for the internal purpose, please use `tempest` for 
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?

@@ -1,13 +1,20 @@
 Tempest Creative Design Studio
 ==============================
 
+If you create a repository for the internal purpose, please use `tempest` for the topic.
+You can set up topic as below.  
 
-If you create a repository for the internal purpose, please use `tempest` for 
-**Here are some ideas to get you started:**
+**Click the gear icon on the right top side panel.**  
+<img width="381" height="167" alt="image" src="https://github.com/user-attachments/assets/e93dc9c7-c151-4cf3-8ad7-ff6ef8415ba1" />
+  
+  
+  
+**Then you can set as many topic as you want.**  
+<img width="678" height="532" alt="image" src="https://github.com/user-attachments/assets/d9fb601e-b3ab-42c5-9ae9-5ed69a3307f1" />
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+**Topic you may consider**  
+Use `tempest`, `pipeline` for the internal purpose
+Use `genesis`, `hyundai`, `kia`, `autoever` for clients
+
 
